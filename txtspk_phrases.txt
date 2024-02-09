@@ -1,0 +1,20 @@
+    asl - age sex location
+    a3 - anytime anywhere anyplace
+    aap - always a pleasure
+    aar - at any rate
+    aas - alive and smiling
+    abtr - any bumming to report
+    add - address
+    adn - any day now
+    aeap - as early as possible
+    afaik - as far as I know
+    afk - away from keyboard
+    aisb - as it should be
+    aka - also known as
+    aml - all my love
+    aota - all of the above
+    asap - as soon as possible
+    at - at your terminal
+    atm - at the moment
+    ayec - at your earliest convenience
+    ayor - at your own risk
